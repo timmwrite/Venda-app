@@ -1,0 +1,1 @@
+Hello, I'm using navigation 3.2.0 and am getting errors when creating the screen navigation. Otherwise am okay with everithing else. If i get someone to help me out I will finish the project as soon as possible. Thank you!
